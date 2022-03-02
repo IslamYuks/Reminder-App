@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Reminder-App/static/css/main.13c3648d.chunk.css",
+    "main.js": "/Reminder-App/static/js/main.f7175d82.chunk.js",
+    "main.js.map": "/Reminder-App/static/js/main.f7175d82.chunk.js.map",
+    "runtime~main.js": "/Reminder-App/static/js/runtime~main.c025d1f3.js",
+    "runtime~main.js.map": "/Reminder-App/static/js/runtime~main.c025d1f3.js.map",
+    "static/css/2.561037eb.chunk.css": "/Reminder-App/static/css/2.561037eb.chunk.css",
+    "static/js/2.7395343c.chunk.js": "/Reminder-App/static/js/2.7395343c.chunk.js",
+    "static/js/2.7395343c.chunk.js.map": "/Reminder-App/static/js/2.7395343c.chunk.js.map",
+    "index.html": "/Reminder-App/index.html",
+    "precache-manifest.a7140c72010cc0e8cf75a28243e6dbc4.js": "/Reminder-App/precache-manifest.a7140c72010cc0e8cf75a28243e6dbc4.js",
+    "service-worker.js": "/Reminder-App/service-worker.js",
+    "static/css/2.561037eb.chunk.css.map": "/Reminder-App/static/css/2.561037eb.chunk.css.map",
+    "static/css/main.13c3648d.chunk.css.map": "/Reminder-App/static/css/main.13c3648d.chunk.css.map",
+    "static/media/logo.png": "/Reminder-App/static/media/logo.de7022b3.png"
+  }
+}
